@@ -3,7 +3,9 @@ Generate a simple image gallery from a folder with photos.
 
 ## Usage
 
-**!!! ImageMagick is required !!!**
+> [!IMPORTANT]
+> **ImageMagick is required**
+
 Generate an image gallery named "My Gallery" in folder `output` by using photos located in the `input` folder:
 
 ```
